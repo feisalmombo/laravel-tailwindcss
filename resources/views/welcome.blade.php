@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="text-3xl font-bold">
+    <h1 class="text-3xl font-bold underline">
         hello world 2023
     </h1>
 </body>
